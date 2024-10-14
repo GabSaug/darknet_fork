@@ -1,3 +1,6 @@
+libdarknet.a
+libdarknet.so
+log_make.txt
 *.o
 *.dSYM
 *.csv
